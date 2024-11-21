@@ -135,4 +135,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-For inquiries or collaboration, please contact [[Your Contact Information](https://www.linkedin.com/in/abdelnaeem/)].
+For inquiries or collaboration, please contact [[Linkedin](https://www.linkedin.com/in/abdelnaeem/)].
