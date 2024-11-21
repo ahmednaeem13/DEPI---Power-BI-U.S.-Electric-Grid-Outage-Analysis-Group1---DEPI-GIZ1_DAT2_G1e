@@ -10,6 +10,30 @@ The project utilizes Power BI for data cleaning, modeling, visualization, and st
 
 ---
 
+## Project Roadmap
+
+![Project Roadmap](https://github.com/ahmednaeem13/DEPI-Power-BI-U.S.-Electric-Grid-Outage-Analysis-Group1-DEPI-GIZ1_DAT2_G1e/blob/main/Screenshot%202024-11-21%20212100.png)
+
+
+1. **Data Cleaning**:
+   - Removed duplicates and unnecessary rows.
+   - Standardized column formats and values.
+   - Categorized events and ensured data consistency.
+
+2. **Data Modeling & Calculation**:
+   - Created relationships between tables.
+   - Developed DAX measures for metrics like event counts, averages, and YOY comparisons.
+
+3. **Visualization**:
+   - Built visuals for trends, patterns, and key metrics.
+   - Highlighted outliers and anomalies for better understanding.
+
+4. **Distribution & Automation**:
+   - Published reports to Power BI Online.
+   - Automated data refreshes for up-to-date insights.
+
+---
+
 ## Objectives
 
 The key objectives of this project include:
@@ -52,31 +76,11 @@ Here are some previews of the Power BI dashboard and key visualizations:
 ### Regional Analysis
 ![Regional Analysis](Screenshot%202024-11-14%20113039.png)
 
+### Filters Pane (Slicers for Interactivity)
+![Year-over-Year Analysis](US%203.png)
+ 
 ---
 
-## Project Roadmap
-
-![Project Roadmap](https://github.com/ahmednaeem13/DEPI-Power-BI-U.S.-Electric-Grid-Outage-Analysis-Group1-DEPI-GIZ1_DAT2_G1e/blob/main/Screenshot%202024-11-21%20212100.png)
-
-
-1. **Data Cleaning**:
-   - Removed duplicates and unnecessary rows.
-   - Standardized column formats and values.
-   - Categorized events and ensured data consistency.
-
-2. **Data Modeling & Calculation**:
-   - Created relationships between tables.
-   - Developed DAX measures for metrics like event counts, averages, and YOY comparisons.
-
-3. **Visualization**:
-   - Built visuals for trends, patterns, and key metrics.
-   - Highlighted outliers and anomalies for better understanding.
-
-4. **Distribution & Automation**:
-   - Published reports to Power BI Online.
-   - Automated data refreshes for up-to-date insights.
-
----
 
 ## Recommendations
 
