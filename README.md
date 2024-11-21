@@ -37,13 +37,13 @@ The key objectives of this project include:
 
 Here are some previews of the Power BI dashboard and key visualizations:
 
-### Dashboard Overview
+### Dashboard Overview Dark Mode
 ![Dashboard Overview](Screenshot%202024-11-14%20112011.png)
 
-### Event Trends
+### Dashboard Overview Light Mode
 ![Event Trends](Screenshot%202024-11-14%20112925.png)
 
-### Year-over-Year Analysis
+### Event Analysis
 ![Year-over-Year Analysis](Screenshot%202024-11-14%20112949.png)
 
 ### Extreme Events Statistics
