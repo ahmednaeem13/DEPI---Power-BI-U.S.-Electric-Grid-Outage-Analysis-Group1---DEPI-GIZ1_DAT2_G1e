@@ -6,7 +6,7 @@ This repository contains the Power BI project for analyzing 21 years of electric
 
 The project utilizes Power BI for data cleaning, modeling, visualization, and storytelling to provide actionable insights into outage trends, vulnerabilities, and impacts on customers and demand.
 
-[**View the Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiMDlhYjg4MTEtNGE5Mi00ZDNjLWJiYzUtZjA2NGZmNmVhNTFmIiwidCI6IjA3NTQwNmZlLWYzMGMtNGM5NC05ZjQzLWU2M2ViMzY5NzZiNiIsImMiOjh9&disablecdnExpiration=1730122704)
+[**View the Live Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiMDlhYjg4MTEtNGE5Mi00ZDNjLWJiYzUtZjA2NGZmNmVhNTFmIiwidCI6IjA3NTQwNmZlLWYzMGMtNGM5NC05ZjQzLWU2M2ViMzY5NzZiNiIsImMiOjh9&disablecdnExpiration=1730122704)
 
 ---
 
@@ -27,6 +27,7 @@ The key objectives of this project include:
 - **Data Cleaning**: Handles inconsistencies, missing values, and unstructured formats in raw data.
 - **Trend Analysis**: Provides year-over-year metrics, rolling averages, and seasonal trends.
 - **Event Categorization**: Analyzes outages by type (weather-related, operational, etc.).
+- **Outliers Detection**: Detect Outliers (Extreme) Events using Six Sigma.
 - **Impact Quantification**: Calculates total customers affected, demand loss, and outage durations.
 - **Actionable Insights**: Suggests strategies for improving grid performance and customer communication.
 
@@ -54,6 +55,9 @@ Here are some previews of the Power BI dashboard and key visualizations:
 ---
 
 ## Project Roadmap
+
+![Project Roadmap](https://github.com/ahmednaeem13/DEPI-Power-BI-U.S.-Electric-Grid-Outage-Analysis-Group1-DEPI-GIZ1_DAT2_G1e/blob/main/Screenshot%202024-11-21%20212100.png)
+
 
 1. **Data Cleaning**:
    - Removed duplicates and unnecessary rows.
@@ -99,13 +103,6 @@ The dataset originates from the DOE's Form DOE-417 and contains event-level data
 
 ---
 
-## Project Files
-
-- **DEPI-GIZ1_DAT2_G1e - Group1 - Final.pbix**: The Power BI project file.
-- **Final Project Report.pdf**: Documentation detailing the project's objectives, process, and insights.
-
----
-
 ## Team Members
 
 This project was developed by a team of Senior Analytics Consultants:
@@ -115,21 +112,6 @@ This project was developed by a team of Senior Analytics Consultants:
 - **Ghada Ragab** (Talent Acquisition Specialist)
 - **Lamiaa Mohamed** (Head of Data Management)
 - **Mennatulah Ashraf** (Global Payroll Generalist)
-
----
-
-## Usage
-
-To explore the insights and dashboard:
-1. Open the `DEPI-GIZ1_DAT2_G1e - Group1 - Final.pbix` file in Power BI Desktop.
-2. Navigate through the visuals and insights on different pages.
-3. Publish the dashboard to Power BI Online for broader accessibility.
-
----
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
