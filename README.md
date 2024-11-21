@@ -37,19 +37,19 @@ The key objectives of this project include:
 Here are some previews of the Power BI dashboard and key visualizations:
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshot 2024-11-14 112011.png)
+![Dashboard Overview](Screenshot%202024-11-14%20112011.png)
 
-### Year-over-Year Trends
-![Year-over-Year Trends](Screenshot 2024-11-14 112925.png)
+### Event Trends
+![Event Trends](Screenshot%202024-11-14%20112925.png)
 
-### Outage Impact Analysis
-![Outage Impact Analysis](Screenshot 2024-11-14 112949.png)
+### Year-over-Year Analysis
+![Year-over-Year Analysis](Screenshot%202024-11-14%20112949.png)
 
-### Outage Impact Analysis
-![Outage Impact Analysis](Screenshot 2024-11-14 113012.png)
+### Extreme Events Statistics
+![Extreme Events Statistics](Screenshot%202024-11-14%20113012.png)
 
-### Outage Impact Analysis
-![Outage Impact Analysis](Screenshot 2024-11-14 113039.png)
+### Regional Analysis
+![Regional Analysis](Screenshot%202024-11-14%20113039.png)
 
 ---
 
